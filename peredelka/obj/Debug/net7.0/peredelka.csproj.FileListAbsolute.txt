@@ -1,0 +1,15 @@
+C:\Users\antif_000\Desktop\peredel\peredelka\bin\Debug\net7.0\peredelka.exe
+C:\Users\antif_000\Desktop\peredel\peredelka\bin\Debug\net7.0\peredelka.deps.json
+C:\Users\antif_000\Desktop\peredel\peredelka\bin\Debug\net7.0\peredelka.runtimeconfig.json
+C:\Users\antif_000\Desktop\peredel\peredelka\bin\Debug\net7.0\peredelka.dll
+C:\Users\antif_000\Desktop\peredel\peredelka\bin\Debug\net7.0\peredelka.pdb
+C:\Users\antif_000\Desktop\peredel\peredelka\obj\Debug\net7.0\peredelka.csproj.AssemblyReference.cache
+C:\Users\antif_000\Desktop\peredel\peredelka\obj\Debug\net7.0\peredelka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antif_000\Desktop\peredel\peredelka\obj\Debug\net7.0\peredelka.AssemblyInfoInputs.cache
+C:\Users\antif_000\Desktop\peredel\peredelka\obj\Debug\net7.0\peredelka.AssemblyInfo.cs
+C:\Users\antif_000\Desktop\peredel\peredelka\obj\Debug\net7.0\peredelka.csproj.CoreCompileInputs.cache
+C:\Users\antif_000\Desktop\peredel\peredelka\obj\Debug\net7.0\peredelka.dll
+C:\Users\antif_000\Desktop\peredel\peredelka\obj\Debug\net7.0\refint\peredelka.dll
+C:\Users\antif_000\Desktop\peredel\peredelka\obj\Debug\net7.0\peredelka.pdb
+C:\Users\antif_000\Desktop\peredel\peredelka\obj\Debug\net7.0\peredelka.genruntimeconfig.cache
+C:\Users\antif_000\Desktop\peredel\peredelka\obj\Debug\net7.0\ref\peredelka.dll
